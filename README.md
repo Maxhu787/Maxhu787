@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxhu787
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js, c++
+- 🌱 I’m currently learning js, cpp, py, css, html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,4 +1,5 @@
-### g4o2
+[![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
+# g4o2
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=dark)

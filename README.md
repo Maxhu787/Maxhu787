@@ -1,5 +1,5 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
-# g4o2 <img style="height: 20px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true">
+# G4O2 <img style="height: 40px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true">
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=dark)
 ## Languages

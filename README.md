@@ -1,9 +1,8 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
 # g4o2
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=dark)
-
+## Languages
 <a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 

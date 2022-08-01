@@ -1,14 +1,15 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
 # G4O2 <img style="height: 40px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true">
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
-
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&bg_color=0D1117)
 <a href="https://github.com/maxhu787/g4o2-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 <a href="https://github.com/maxhu787/scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
 </a>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
 
 ## Languages
 <a>

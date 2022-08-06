@@ -13,7 +13,6 @@
 </a>
 
 ## Languages
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
 
 <a>

@@ -1,6 +1,7 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
 <h1 align="center">G4O2 <img style="height: 40px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true"></h1>
 <h3 align="center">A kid from taiwan that is interested in programming</h3>
+<h3>Taking a break at the moment because of school</h3>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react)

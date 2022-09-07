@@ -30,6 +30,3 @@
     <a href="https://www.php.net/" target="_blank"><img style="height:60px" src="./icons8-php-logo.svg"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img style="height:60px" src="./icons8-mysql-logo.svg"/></a>
 </a>
-
-
-

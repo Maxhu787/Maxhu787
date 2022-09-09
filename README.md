@@ -8,6 +8,8 @@
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=ffa500&logo=github&logoColor=white&style=flat)](https://github.com/maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@Maxhu787&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/Maxhu787)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react)
 

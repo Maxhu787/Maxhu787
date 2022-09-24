@@ -10,19 +10,23 @@
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@Maxhu787&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/Maxhu787)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react)
+-->
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
 
+<!--
 <a align="center" href="https://github.com/maxhu787/g4o2-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 <a align="center" href="https://github.com/maxhu787/scripts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
 </a>
-
+-->
+<!--
 ## Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
+-->
 
 <a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>

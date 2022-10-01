@@ -4,8 +4,8 @@
 <h3 align="center">A person from taiwan that is interested in programming</h3>
 <h4 align="center">Taking a break from programming at the moment because of school stuff</h4>
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=g4o2&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/882984119921958912)
-[![Discord server](https://img.shields.io/discord/905406797437886464)](https://discord.com/invite/UxNjRrT6RY)
+[![Discord](https://img.shields.io/static/v1?label=Discord%20profile&message=g4o2&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/882984119921958912)
+[![Discord](https://img.shields.io/discord/936428193521487953?color=blue&label=Discord%20server&logo=Discord&logoColor=blue)](https://discord.com/invite/UxNjRrT6RY)
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=ffa500&logo=github&logoColor=white&style=flat)](https://github.com/maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@Maxhu787&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/Maxhu787)
 

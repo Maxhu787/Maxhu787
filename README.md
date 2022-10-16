@@ -27,6 +27,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
 </a>
 
+<a align="center" href="https://github.com/g4o2-chat/PHP-SQL-Chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2-chat&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
+</a>
+
 ## Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
 

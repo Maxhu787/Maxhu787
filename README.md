@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/discord/936428193521487953?color=blue&label=Discord%20server&logo=Discord&logoColor=blue)](https://discord.com/invite/UxNjRrT6RY)
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=ffa500&logo=github&logoColor=white&style=flat)](https://github.com/maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@Maxhu787&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/Maxhu787)
+<img src="https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 

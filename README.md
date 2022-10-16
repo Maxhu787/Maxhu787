@@ -1,6 +1,6 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
 <h1 align="center">G4O2 <img style="height: 40px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true"></h1>
-<p align="center"><img src="https://img.shields.io/github/followers/maxhu787.svg?style=social&label=Follow%20Me" width="125"></p>
+<p align="center"><a href="https://github.com/maxhu787"><img src="https://img.shields.io/github/followers/maxhu787.svg?style=social&label=Follow%20Me" width="125"></a></p>
 <h3 align="center">A person from taiwan that is interested in programming</h3>
 <h4 align="center">Taking a break from programming at the moment because of school stuff</h4>
 

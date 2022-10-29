@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 
-
 <a align="center" href="https://github.com/maxhu787/scripts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
 </a>

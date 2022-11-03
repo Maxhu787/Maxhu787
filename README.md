@@ -38,3 +38,5 @@
     <a href="https://www.php.net/" target="_blank"><img style="height:60px" src="./icons8-php-logo.svg"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img style="height:60px" src="./icons8-mysql-logo.svg"/></a>
 </a>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />

@@ -18,12 +18,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 
-<a align="center" href="https://github.com/maxhu787/scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
-</a>
-
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
+</a>
+
+<a align="center" href="https://github.com/maxhu787/scripts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
 </a>
 
 ## Languages
@@ -39,6 +39,4 @@
     <a href="https://www.mysql.com/" target="_blank"><img style="height:60px" src="./icons8-mysql-logo.svg"/></a>
 </a>
 
-<a href="https://github.com/maxhu787"><img src="https://activity-graph.herokuapp.com/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<a href="https://github.com/maxhu787"><img align="center" src="https://github.com/Maxhu787/Maxhu787/blob/main/temp5.PNG"></a>
-<a href="https://github.com/maxhu787"><img align="center" src="https://github.com/Maxhu787/Maxhu787/blob/main/temp6.PNG"></a>
+<!-- <a href="https://github.com/maxhu787"><img src="https://activity-graph.herokuapp.com/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->

@@ -7,6 +7,8 @@
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=ffa500&logo=github&logoColor=white&style=flat)](https://github.com/maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@Maxhu787&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/hu_kaixiang)
 [![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/maxhu787) <!--[![Total lines](https://img.shields.io/tokei/lines/github/maxhu787/g4o2-website)](https://github.com/maxhu787/g4o2-website)-->[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)
+[![Website](https://img.shields.io/static/v1?label=Website&message=g4o2&color=1affc6&logoColor=white&style=flat)](https://maxhu787.github.io)
+[![PHP-SQL-Chat](https://img.shields.io/static/v1?label=Website&message=PHP-SQL-Chat&color=1affc6&logoColor=white&style=flat)](https://php-sql-chat.maxhu787.repl.co)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/maxhu787)
 

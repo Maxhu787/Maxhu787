@@ -17,12 +17,14 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
 
-<a align="center" href="https://github.com/maxhu787/g4o2-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
-</a>
+## Repos
 
 <a align="center" href="https://github.com/g4o2/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
+</a>
+
+<a align="center" href="https://github.com/maxhu787/g4o2-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 
 <a align="center" href="https://github.com/maxhu787/scripts">

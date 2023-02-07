@@ -30,7 +30,7 @@
 </a>
 
 ## Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
 
 <a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>

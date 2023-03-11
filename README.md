@@ -35,18 +35,17 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
 
 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="./c-original.svg" alt="c" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./git.svg" alt="git" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="./postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
+<a href="https://www.python.org" target="_blank"><img src="./python-original.svg" alt="python" width="40" height="40" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="./sqlite.svg" alt="sqlite" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./js.png"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="html.png"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="css.png"/> 
+<a href="https://reactjs.org/" target="_blank"><img src="reactjs.png"/></a>
 <a href="https://www.php.net/" target="_blank"><img style="height:60px" src="./icons8-php-logo.svg"/></a>
   
 <a href="https://github.com/maxhu787"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

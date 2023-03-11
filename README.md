@@ -34,11 +34,9 @@
 ## Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
 
-
 <table align="center">
-
   <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#nuxtjs">
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
@@ -51,108 +49,129 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="./js.png" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
-</tr>
-
-<tr>
     <td align="center" width="96">
-      <a href="#git" >
+      <a href="#nuxtjs">
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="./sqlite.svg" alt="sqlite" width="48" height="48" alt="SQLITE" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="./cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="./c-original.svg" alt="c" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" taget="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/" taget="_blank">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      </a>
       <br>Github
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center" width="96">
+      <img src="html.png" width="48" height="48" alt="html" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="css.png" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/" taget="_blank">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+      <a href="https://www.postgresql.org/" taget="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
     </td>
-</tr>
-<tr>
-     <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+      </a>
       <br>Express
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="https://mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       </a>
       <br>MySQL
     </td>
- </tr>
-<tr>
-      <td align="center"  width="96">
-      <a href="#vscode">
+    <td align="center" width="96">
+      <a href="https://jquery.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      </a>
+      <br>JQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://vscode.dev">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
-     <td align="center"  width="96">
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+      </a>
       <br>React js
     </td>
-      <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+      </a>
       <br>Postgress
     </td>
-         <td align="center"  width="96">
-     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+      </a>
       <br>Node js
     </td>
     <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+      </a>
       <br>Mongo
     </td>
   </tr>
-
 </table>
 
-
-
-
-<a href="https://www.cprogramming.com/" target="_blank"><img src="./c-original.svg" alt="c" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="./git.svg" alt="git" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="./postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank"><img src="./python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="./sqlite.svg" alt="sqlite" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./js.png"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="html.png"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="css.png"/> 
-<a href="https://reactjs.org/" target="_blank"><img src="reactjs.png"/></a>
-<a href="https://www.php.net/" target="_blank"><img style="height:60px" src="./icons8-php-logo.svg"/></a>
-  
 <a href="https://github.com/maxhu787"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

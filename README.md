@@ -27,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
 </a>
 
-<a align="center" href="https://github.com/maxhu787/scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=scripts&theme=react&bg_color=0D1117"/>
-</a>
-
 ## Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
 
@@ -152,5 +148,4 @@
     </td>
   </tr>
 </table>
-
 <a href="https://github.com/maxhu787"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

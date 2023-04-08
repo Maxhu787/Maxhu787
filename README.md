@@ -59,18 +59,6 @@
       </a>
       <br>SQLite
     </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="./cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="./c-original.svg" alt="c" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -113,6 +101,18 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       </a>
       <br>JQuery
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="./cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="./c-original.svg" alt="c" width="48" height="48" alt="C" />
+      </a>
+      <br>C
     </td>
   </tr>
   <tr>

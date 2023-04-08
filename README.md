@@ -110,9 +110,15 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="./c-original.svg" alt="c" width="48" height="48" alt="C" />
+        <img src="./c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="./bash.svg" alt="bash" width="48" height="48" />
+      </a>
+      <br>Bash
     </td>
   </tr>
   <tr>

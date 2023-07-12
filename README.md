@@ -28,6 +28,25 @@
 </a>
 
 ## Languages
+
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
+  ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
 
 <table align="center">

@@ -173,10 +173,10 @@
     </td>
   </tr>
 </table>
-<!--<a href="https://github.com/maxhu787"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
--->
-<!-- <picture>
+<!-- <a href="https://github.com/maxhu787"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maxhu787&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
-</picture> -->
+</picture>

@@ -181,3 +181,5 @@
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 -->
+Ethereum <a href="ethereum:0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6">0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6</a><br/>
+Doge <a href="doge:DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR">DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR</a>

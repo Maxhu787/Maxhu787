@@ -20,7 +20,7 @@
 ## Repos
 
 <a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=php-sql-chat&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
 
 <a align="center" href="https://github.com/maxhu787/g4o2-website">

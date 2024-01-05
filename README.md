@@ -1,5 +1,5 @@
 [![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
-<h1 align="center">Hu Kaixiang (g4o2) <img style="height: 40px;" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true"></h1>
+<h1 align="center">Hu Kaixiang (g4o2) <img style="height: 40px" src="https://github.com/maxhu787/maxhu787/blob/main/111.jpeg?raw=true"></h1>
 <p align="center"><a href="https://github.com/maxhu787"><img src="https://img.shields.io/github/followers/maxhu787.svg?style=social&label=Follow%20Me" width="125"></a></p>
 
 <!--[![Discord server](https://img.shields.io/discord/936428193521487953?color=5865F2&label=Discord%20server&logo=Discord&logoColor=white)](https://discord.com/invite/UxNjRrT6RY)-->

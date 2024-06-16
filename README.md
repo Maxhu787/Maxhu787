@@ -1,6 +1,8 @@
-[![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
+<!--[![Banner](https://github.com/maxhu787/maxhu787/blob/main/banner.jpg?raw=true)](https://github.com/maxhu787/maxhu787)
+-->
 <h1 align="center">Hu Kaixiang</h1>
 <p align="center"><a href="https://github.com/maxhu787"><img src="https://img.shields.io/github/followers/maxhu787.svg?style=social&label=Follow%20Me" width="125"></a></p>
+
 
 <!--[![Discord server](https://img.shields.io/discord/936428193521487953?color=5865F2&label=Discord%20server&logo=Discord&logoColor=white)](https://discord.com/invite/UxNjRrT6RY)-->
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=g4o2&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/882984119921958912)
@@ -10,45 +12,37 @@
 [![Instagram profile](https://img.shields.io/static/v1?label=Instagram&message=hukaixiang0207&color=pink&logo=instagram&logoColor=pink&style=flat)](https://www.instagram.com/hukaixiang0207)
 [![Website](https://img.shields.io/static/v1?label=Website&message=maxhu787.github.io&color=1affc6&logoColor=white&style=flat)](https://maxhu787.github.io)
 <!--[![PHP-SQL-Chat](https://img.shields.io/static/v1?label=Website&message=PHP-SQL-Chat&color=1affc6&logoColor=white&style=flat)](https://php-sql-chat.maxhu787.repl.co)-->
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
+![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/maxhu787)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
-
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
 
-## Repos
+![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 
 <a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=php-sql-chat&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
-
-<a align="center" href="https://github.com/maxhu787/g4o2-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxhu787&repo=g4o2-website&theme=react&bg_color=0D1117" />
-</a>
-
-## Languages
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
-  ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;
-  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<hr/>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
-
+<!--
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -181,6 +175,7 @@
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 -->
+<!--
 <div align="center">
   Ethereum <a href="ethereum:0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6">0x6E6E2561cCfBB0CE08Ed28516c34a278ec18d6D6</a><br/>
   Doge <a href="doge:DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR">DQWHdcCVhJxkaNSpmqLUsDtfAS6PVGnThR</a>

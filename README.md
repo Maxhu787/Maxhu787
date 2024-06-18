@@ -41,6 +41,11 @@
 <hr/>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
+
+
+<p align="center">
+<a href="https://github.com/maxhu787"><img src="https://profile-counter.glitch.me/{maxhu787}/count.svg" alt="blue0316 :: Visitor's Count" /></a>
+</p>
 <!--
 <table align="center">
   <tr>

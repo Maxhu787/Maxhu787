@@ -31,7 +31,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/maxhu787)
 
+<!--
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
+-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
 

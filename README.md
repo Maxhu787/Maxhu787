@@ -8,7 +8,7 @@
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=5cb85c&logo=github&logoColor=white&style=flat)](https://github.com/maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@hu_kaixiang&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/hu_kaixiang)
 [![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/maxhu787) <!--[![Total lines](https://img.shields.io/tokei/lines/github/maxhu787/g4o2-website)](https://github.com/maxhu787/g4o2-website)-->[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)
-[![Instagram profile](https://img.shields.io/static/v1?label=Instagram&message=hukaixiang0207&color=pink&logo=instagram&logoColor=pink&style=flat)](https://www.instagram.com/hukaixiang0207)
+[![Instagram profile](https://img.shields.io/static/v1?label=Instagram&message=hks_0207&color=pink&logo=instagram&logoColor=pink&style=flat)](https://www.instagram.com/hks_0207)
 <!--[![Website](https://img.shields.io/static/v1?label=Website&message=maxhu787.github.io&color=1affc6&logoColor=white&style=flat)](https://maxhu787.github.io)
 <!--[![PHP-SQL-Chat](https://img.shields.io/static/v1?label=Website&message=PHP-SQL-Chat&color=1affc6&logoColor=white&style=flat)](https://php-sql-chat.maxhu787.repl.co)-->
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;

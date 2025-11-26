@@ -36,7 +36,7 @@
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)-->
 
 <a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>

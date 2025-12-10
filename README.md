@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/Maxhu787)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=maxhu787&theme=matrix)](https://github.com/Maxhu787) -->
 
 <!--
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=maxhu787&theme=react&hide_border=true)
@@ -38,13 +38,14 @@
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=maxhu787&show_icons=true&theme=react&bg_color=0D1117)-->
 
+<!--
 <a align="center" href="https://github.com/php-sql-chat/PHP-SQL-Chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4o2&repo=PHP-SQL-Chat&theme=react&bg_color=0D1117"/>
 </a>
 <hr/>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu787&theme=react&bg_color=0D1117&layout=compact&langs_count=100)
-
+-->
 
 <!--
 <p align="center">

@@ -7,11 +7,11 @@
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=g4o2&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/882984119921958912)
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=5cb85c&logo=github&logoColor=white&style=flat)](https://github.com/Maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@g4o2_dev&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/g4o2_dev)
-[![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Maxhu787) 
-<!--[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)-->
-[![LinkedIn profile](https://img.shields.io/static/v1?label=LinkedIn&message=hu-kai-hsiang&color=0A66C2&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hu-kai-hsiang/)
 [![Instagram profile](https://img.shields.io/static/v1?label=Instagram&message=hks_0207&color=pink&logo=instagram&logoColor=pink&style=flat)](https://www.instagram.com/hks_0207)
+[![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=d49d31&style=flat)](https://github.com/Maxhu787)
+[![LinkedIn profile](https://img.shields.io/static/v1?label=LinkedIn&message=hu-kai-hsiang&color=0A66C2&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hu-kai-hsiang/)
 [![Website](https://img.shields.io/static/v1?label=Website&message=g4o2.com&color=1affc6&logoColor=white&style=flat)](https://www.g4o2.com)
+<!--[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)-->
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

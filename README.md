@@ -16,17 +16,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
-![php](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat&logo=supabase&logoColor=3ECF8E)&nbsp;
+<!--![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;-->
+<!--![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;-->
 
 <!-- ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;

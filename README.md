@@ -7,22 +7,26 @@
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=g4o2&color=5865F2&logo=discord&logoColor=white&style=flat)](https://discord.com/users/882984119921958912)
 [![Github profile](https://img.shields.io/static/v1?label=Github&message=Maxhu787&color=5cb85c&logo=github&logoColor=white&style=flat)](https://github.com/Maxhu787)
 [![Twitter profile](https://img.shields.io/static/v1?label=Twitter&message=@g4o2_dev&color=00bfff&logo=twitter&logoColor=white&style=flat)](https://twitter.com/g4o2_dev)
-[![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Maxhu787) <!--[![Total lines](https://img.shields.io/tokei/lines/github/maxhu787/g4o2-website)](https://github.com/maxhu787/g4o2-website)[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)-->
+[![Profile views](https://komarev.com/ghpvc/?username=maxhu787&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Maxhu787) 
+<!--[![Youtube channel](https://img.shields.io/static/v1?label=YouTube&message=g4o2&color=ff0000&logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCWXyRHqr9zS5oqzmR2tVHtQ)-->
+[![LinkedIn profile](https://img.shields.io/static/v1?label=LinkedIn&message=hu-kai-hsiang&color=0A66C2&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hu-kai-hsiang/)
 [![Instagram profile](https://img.shields.io/static/v1?label=Instagram&message=hks_0207&color=pink&logo=instagram&logoColor=pink&style=flat)](https://www.instagram.com/hks_0207)
-<!--[![Website](https://img.shields.io/static/v1?label=Website&message=maxhu787.github.io&color=1affc6&logoColor=white&style=flat)](https://maxhu787.github.io)
-<!--[![PHP-SQL-Chat](https://img.shields.io/static/v1?label=Website&message=PHP-SQL-Chat&color=1affc6&logoColor=white&style=flat)](https://php-sql-chat.maxhu787.repl.co)-->
+[![Website](https://img.shields.io/static/v1?label=Website&message=g4o2.com&color=1affc6&logoColor=white&style=flat)](https://www.g4o2.com)
+
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
-![php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+![php](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat&logo=supabase&logoColor=3ECF8E)&nbsp;
 
 <!-- ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;
